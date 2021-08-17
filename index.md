@@ -1,5 +1,6 @@
 ## Title: A Computational Model of Visual Narrative Comprehension
 > - **Research Theme:** we propose a computational model for the analysis of multi-modal narratives based on two datasets of western comics (Comics from Iyyer et al. 2017) and Japanese manga(Manga109 from 2017).
+>
 > - **Findings:** 
 > <ol>
 > <li>A Computational Model of Comprehension in Manga Style Visual Narratives--Study Features That Influences Understanding.</li>
