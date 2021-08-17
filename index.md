@@ -19,9 +19,9 @@
 
 ## Document
 > - [version 1 (Aug 16, 2021)]() -- finished draft.
-> - [version 2 (Aug 17, 2021)](https://rimichen.github.io/Oral-Website/prelim/Prelim_proposal_v1.pdf) -- corrected few typos.
+> - [version 2 (Aug 17, 2021)](https://rimichen.github.io/Oral-Website/prelim/Prelim_proposal_v2.pdf) -- corrected few typos.
 >
->
+
 
 ## Slide
 >
