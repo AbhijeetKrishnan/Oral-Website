@@ -26,5 +26,5 @@
 
 ## Slide
 >
-> - version 1 (coming soon)
+> - [version 1 (Aug 23, 2021)](https://rimichen.github.io/Oral-Website/prelim/Rimi_Prelim_Presentation_v1.pdf) -- finished draft.
 >
