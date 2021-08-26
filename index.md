@@ -28,3 +28,4 @@
 >
 > - [version 1 (Aug 23, 2021)](https://rimichen.github.io/Oral-Website/prelim/Rimi_Prelim_Presentation_v1.pdf) -- finished draft.
 > - [version 2 (Aug 25, 2021)](https://rimichen.github.io/Oral-Website/prelim/Rimi_Prelim_Presentation_v2.pdf) -- updated slide structure, and expected task, timeline. 
+> - [version 3 (Aug 25, 2021)](https://rimichen.github.io/Oral-Website/prelim/Rimi_Prelim_Presentation_v3.pdf) -- removed table, figure captions; and fixed some descriptions and typos. 
