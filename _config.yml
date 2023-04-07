@@ -21,7 +21,6 @@
 title: "Abhijeet Krishnan's Oral Prelim Exam"
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website for my oral prelim exam's documents.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/icon.png"
 show_downloads: false

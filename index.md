@@ -22,7 +22,6 @@ effectiveness and interpretability for a human player.
 ## Proposed Work
 
 - Solve the interpretable strategy synthesis problem for MicroRTS using a sequence model and/or an ASP-based approach.
-- Investigate a new strategy model for MicroRTS that uses Behavior Trees.
 - Investigate the factors affecting the perceived interpretability of a strategy model for the domain of MicroRTS.
 
 ## Committee
@@ -32,6 +31,7 @@ effectiveness and interpretability for a human player.
 - **Member 2:** [Dr. Jonathan Stallrich](https://jonstallrich.com/) (GSR)
 
 ## Document
+- [version 2 (2023-04-07)](/prelim/AbhijeetKrishnan-thesis-proposal-v2.pdf)
 - [version 1 (2023-04-05)](/prelim/AbhijeetKrishnan-thesis-proposal.pdf)
 
 ## Slides
