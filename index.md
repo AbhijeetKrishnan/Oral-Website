@@ -36,4 +36,4 @@ effectiveness and interpretability for a human player.
 
 ## Slides
 
-- [version 1 (TBD)]() -- TODO.
+- [version 0 (2023-04-06)](/prelim/main.pdf)
