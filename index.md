@@ -1,5 +1,12 @@
 # Interpretable Strategy Synthesis for Competitive Games
 
+## Administrivia
+
+- **Date**: 24th April, 2023
+- **Time**: 2:00 pm - 4:00 pm
+- **Venue**: Room 420, Venture IV
+- **Zoom**: [Link](https://ncsu.zoom.us/j/99342960109?pwd=YTRTdWloV0ZsaUpwQWFLQTE2SkRwQT09)
+
 ## Research Theme
 
 Competitive games admit a wide variety of player strategies and emergent, domain-specific concepts that are not obvious
