@@ -25,6 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/icon.png"
 show_downloads: false
 github_username: AbhijeetKrishnan
+repository: AbhijeetKrishnan/Oral-Website
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
