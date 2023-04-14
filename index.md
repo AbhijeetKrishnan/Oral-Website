@@ -38,9 +38,11 @@ effectiveness and interpretability for a human player.
 - **Member 2:** [Dr. Jonathan Stallrich](https://jonstallrich.com/) (GSR)
 
 ## Document
+- [version 3 (2023-04-14)](/prelim/AbhijeetKrishnan-thesis-proposal-v3.pdf)
 - [version 2 (2023-04-07)](/prelim/AbhijeetKrishnan-thesis-proposal-v2.pdf)
-- [version 1 (2023-04-05)](/prelim/AbhijeetKrishnan-thesis-proposal.pdf)
+- [version 1 (2023-04-05)](/prelim/AbhijeetKrishnan-thesis-proposal-v1.pdf)
 
 ## Slides
 
-- [version 0 (2023-04-06)](/prelim/main.pdf)
+- [version 1 (2023-04-14)](/prelim/main-v2.pdf)
+- [version 0 (2023-04-06)](/prelim/main-v1.pdf)
