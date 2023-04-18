@@ -35,9 +35,10 @@ effectiveness and interpretability for a human player.
 - **Co-Chair:** [Dr. Arnav Jhala](https://www.csc.ncsu.edu/people/ahjhala)
 - **Co-Chair:** [Dr. Chris Martens](https://www.convivial.tools/)
 - **Member 1:** [Dr. James Lester](https://www.intellimedia.ncsu.edu/people/lester/)
-- **Member 2:** [Dr. Jonathan Stallrich](https://jonstallrich.com/) (GSR)
+- **Member 2 (GSR):** [Dr. Jonathan Stallrich](https://jonstallrich.com/)
 
 ## Document
+- [version 4 (2023-04-18)](/prelim/AbhijeetKrishnan-thesis-proposal-v4.pdf)
 - [version 3 (2023-04-14)](/prelim/AbhijeetKrishnan-thesis-proposal-v3.pdf)
 - [version 2 (2023-04-07)](/prelim/AbhijeetKrishnan-thesis-proposal-v2.pdf)
 - [version 1 (2023-04-05)](/prelim/AbhijeetKrishnan-thesis-proposal-v1.pdf)
