@@ -4,7 +4,7 @@
 
 - **Date**: 24th April, 2023
 - **Time**: 2:00 pm - 4:00 pm
-- **Venue**: Room 420, Venture IV
+- **Venue**: ~~Room 420, Venture IV~~ Fully remote
 - **Zoom**: [Link](https://ncsu.zoom.us/j/99342960109?pwd=YTRTdWloV0ZsaUpwQWFLQTE2SkRwQT09)
 
 ## Research Theme
