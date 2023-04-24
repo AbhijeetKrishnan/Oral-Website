@@ -45,6 +45,7 @@ effectiveness and interpretability for a human player.
 
 ## Slides
 
+- [version 3 (2023-04-24)](/prelim/main-v4.pdf)
 - [version 2 (2023-04-23)](/prelim/main-v3.pdf)
 - [version 1 (2023-04-14)](/prelim/main-v2.pdf)
 - [version 0 (2023-04-06)](/prelim/main-v1.pdf)
