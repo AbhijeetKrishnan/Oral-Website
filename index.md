@@ -2,22 +2,33 @@
 
 ## Administrivia
 
-- **Date**: 24th April, 2023
-- **Time**: 2:00 pm - 4:00 pm
-- **Venue**: ~~Room 420, Venture IV~~ Fully remote
-- **Zoom**: [Link](https://ncsu.zoom.us/j/99342960109?pwd=YTRTdWloV0ZsaUpwQWFLQTE2SkRwQT09)
+- **Date**: TBD
+- **Time**: TBD
+- **Venue**: Fully remote
+- **Zoom**: TBD
 
 ## Research Theme
 
-Competitive games admit a wide variety of player strategies and emergent, domain-specific concepts that are not obvious
-from an examination of their rules. Expert agents trained on these games demonstrate many useful strategies, but these
-are difficult for human players to understand and adopt. Algorithmically revealing these strategies could help players
-develop a better model for making decisions that lead to victories. I propose to investigate approaches to the problem
-of interpretable strategy synthesis i.e., the problem of finding algorithmic approaches to learning useful strategies
-for games that can be understood and applied by a human player. This work formalizes the interpretable strategy
-synthesis problem and applies Inductive Logic Programming to solve it for the game of chess. My hypothesis is that
-different game domains will require domain-specific strategy representations in order to improve their in-game
-effectiveness and interpretability for a human player.
+Competitive games admit a wide variety of player strategies and emergent, domain-specific concepts that are not
+obvious from mere examination of their rules. An example is the _fork_ in chess, where observing the pattern of
+a piece attacking two other pieces provides useful information regarding which move ought to be played. Expert
+agents trained on these games exhibit many useful strategies in their gameplay, but these are difficult for human
+players to understand and adopt. Algorithmically generating _explanations_ for these AI learned strategies
+could help human players become more competent in the game, improving their decision-making and leading to more
+victories.
+
+In this document, I propose to investigate approaches to the problem of _interpretable strategy synthesis_
+i.e., the problem of finding algorithmic approaches to learning useful strategies for games that can be understood
+and applied by a human player. In preliminary work, I was able to formally define the problem of interpretable
+strategy synthesis and propose a unified framework for describing the problem, along with situating extant works in
+that framework. I was also able to use the framework to learn strategies for chess. I was able to connect the problem
+of program synthesis to the problem of interpretable strategy synthesis, and was able to use a decision transformer
+to synthesize programmatic strategies. My hypothesis is that different game domains will require domain-specific strategy representations in
+order to improve their in-game effectiveness and interpretability for a human player.
+
+The work proposed in this dissertation will benefit the esports analytics industry by providing an additional,
+powerful tool to gain insight into player strategies. It will also benefit explainable RL (XRL) research by
+contributing an additional technique to explain the behavior of RL agents.
 
 
 ## Findings
@@ -25,11 +36,7 @@ effectiveness and interpretability for a human player.
 1. Towards Action Model Learning for Player Modeling. ([link](https://www.aaai.org/ojs/index.php/AIIDE/article/view/7436), [paper](https://abhijeetkrishnan.me/assets/docs/AML_for_Player_Modeling.pdf), [code](https://github.com/AbhijeetKrishnan/aml-for-player-modeling), [video](https://youtu.be/N2rfOBfT-ZE))
 2. Towards the Automatic Synthesis of Interpretable Chess Tactics. ([link](https://sites.google.com/view/eaai-ws-2022/program), [paper](https://abhijeetkrishnan.me/assets/docs/Interpretable_Chess_Tactics.pdf), [slides](https://abhijeetkrishnan.me/assets/docs/EAAI_22_Presentation.pdf), [code](https://github.com/AbhijeetKrishnan/tactics))
 3. Synthesizing Chess Tactics from Player Games. ([link](https://skatgame.net/mburo/aiide22ws/), [paper](https://abhijeetkrishnan.me/assets/docs/AIIDE_22_Paper_Synthesizing_Chess_Tactics_from_Player_Games.pdf), [slides](https://abhijeetkrishnan.me/assets/docs/AIIDE_22_SG_Presentation.pdf), [code](https://github.com/AbhijeetKrishnan/interpretable-chess-tactics/releases/tag/v1.0))
-
-## Proposed Work
-
-- Solve the interpretable strategy synthesis problem for MicroRTS using a sequence model and/or an ASP-based approach.
-- Investigate the factors affecting the perceived interpretability of a strategy model for the domain of MicroRTS.
+4. Learning Explainable Representations of Complex Game-playing Strategies. (_under review_)
 
 ## Committee
 - **Co-Chair:** [Dr. Arnav Jhala](https://www.csc.ncsu.edu/people/ahjhala)
@@ -38,14 +45,9 @@ effectiveness and interpretability for a human player.
 - **Member 2 (GSR):** [Dr. Jonathan Stallrich](https://jonstallrich.com/)
 
 ## Document
-- [version 4 (2023-04-18)](/prelim/AbhijeetKrishnan-thesis-proposal-v4.pdf)
-- [version 3 (2023-04-14)](/prelim/AbhijeetKrishnan-thesis-proposal-v3.pdf)
-- [version 2 (2023-04-07)](/prelim/AbhijeetKrishnan-thesis-proposal-v2.pdf)
-- [version 1 (2023-04-05)](/prelim/AbhijeetKrishnan-thesis-proposal-v1.pdf)
+
+_coming soon..._
 
 ## Slides
 
-- [version 3 (2023-04-24)](/prelim/main-v4.pdf)
-- [version 2 (2023-04-23)](/prelim/main-v3.pdf)
-- [version 1 (2023-04-14)](/prelim/main-v2.pdf)
-- [version 0 (2023-04-06)](/prelim/main-v1.pdf)
+_coming soon..._

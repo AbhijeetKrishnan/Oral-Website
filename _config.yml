@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Abhijeet Krishnan's Oral Prelim Exam"
+title: "Abhijeet Krishnan's Final Defense"
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website for my oral prelim exam's documents.
+  This is the website for my final defense's documents.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/icon.png"
+logo: "/images/arnavlab.png"
 show_downloads: false
 github_username: AbhijeetKrishnan
 repository: AbhijeetKrishnan/Oral-Website
