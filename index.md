@@ -5,7 +5,7 @@
 - **Date**: July 16, 2024
 - **Time**: 3:00 - 5:00pm EST
 - **Venue**: Fully remote
-- **Zoom**: TBD
+- **Zoom**: [Zoom](https://ncsu.zoom.us/j/98794358822?pwd=dTlCE9caLBulGi7XiFU2F6pdmE6hHi.1)
 
 ## Research Theme
 
