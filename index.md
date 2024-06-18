@@ -46,7 +46,7 @@ contributing an additional technique to explain the behavior of RL agents.
 
 ## Document
 
-_coming soon..._
+- [version 0 (2024-06-17)](/defense/AbhijeetKrishnan-thesis-v0.pdf)
 
 ## Slides
 
