@@ -9,27 +9,33 @@
 
 ## Research Theme
 
-Competitive games admit a wide variety of player strategies and emergent, domain-specific concepts that are not
-obvious from mere examination of their rules. An example is the _fork_ in chess, where observing the pattern of
-a piece attacking two other pieces provides useful information regarding which move ought to be played. Expert
-agents trained on these games exhibit many useful strategies in their gameplay, but these are difficult for human
-players to understand and adopt. Algorithmically generating _explanations_ for these AI learned strategies
-could help human players become more competent in the game, improving their decision-making and leading to more
-victories.
+Competitive games admit a wide variety of player strategies and emergent, domain-specific concepts that are not obvious
+from mere examination of their rules. Independently developing useful strategies requires expertise and time, which not
+all players have access to. Algorithmically generating strategies that players can understand could help them become
+more competent, improving their decision-making and leading to better performance. This thesis describes algorithmic
+approaches to the problem of _interpretable strategy synthesis_ -- modelling and learning strategies for games that are
+both effective and understandable to a human player.
 
-In this document, I propose to investigate approaches to the problem of _interpretable strategy synthesis_
-i.e., the problem of finding algorithmic approaches to learning useful strategies for games that can be understood
-and applied by a human player. In preliminary work, I was able to formally define the problem of interpretable
-strategy synthesis and propose a unified framework for describing the problem, along with situating extant works in
-that framework. I was also able to use the framework to learn strategies for chess. I was able to connect the problem
-of program synthesis to the problem of interpretable strategy synthesis, and was able to use a decision transformer
-to synthesize programmatic strategies. My hypothesis is that different game domains will require domain-specific strategy representations in
-order to improve their in-game effectiveness and interpretability for a human player.
+The thesis begins by formalizing this problem in the context of reinforcement learning, as that of finding a policy for
+a game-based environment that achieves high reward while being _interpretable_ by a human player. This problem
+formulation is applied to the game of chess to develop a first-order logic-based policy model inspired by the documented
+concept of _chess tactics_. Two novel metrics - coverage and divergence, are introduced to evaluate the performance of
+learned chess strategies. Existing chess tactics are translated into this policy model and evaluated, with the results
+showing that they are effective at capturing the behavior of beginner players, but not expert ones. I then introduce a
+learning algorithm based on inductive logic programming to automatically learn strategies for chess in the form of the
+previously introduced logic-based policy model. The learned strategies are evaluated using the coverage and divergence
+metrics, and the results show that the learned strategies are better at approximating human beginners than a random
+baseline. I build on this work by introducing two additional constraints based on precision and recall that measurably
+improve the performance of the learned tactics. Finally, I introduce another approach to interpretable strategy
+synthesis that models a strategy as a programmatic policy, and learns it using the decision transformer model. I apply
+this approach to tasks in the Karel programming environment and show that the learned strategies are competitive with
+those learned by a state-of-the-art approach, while being significantly more sample efficient.
 
-The work proposed in this dissertation will benefit the esports analytics industry by providing an additional,
-powerful tool to gain insight into player strategies. It will also benefit explainable RL (XRL) research by
-contributing an additional technique to explain the behavior of RL agents.
-
+This thesis contributes algorithmic techniques to model and learn policies for games that are both interpretable, and
+effective. An evaluation of the strategies learned by these approaches finds that their performance outperforms
+comparable baselines. I expect these techniques to be useful for esports analytics in a variety of game domains. More
+generally, I also expect that these techniques will be useful for generating explanations of artificial agent behavior
+in reinforcement learning tasks, increasing trust and verifiability of these systems.
 
 ## Findings
 
