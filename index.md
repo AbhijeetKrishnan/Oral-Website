@@ -57,4 +57,5 @@ in reinforcement learning tasks, increasing trust and verifiability of these sys
 
 ## Slides
 
-- [version 1 (2024-07-06)](/defense/AbhijeetKrishnan-thesis-presentation-v0.pdf)
+- [version 1 (2024-07-11)](/defense/AbhijeetKrishnan-thesis-presentation-v1.pdf)
+- [version 0 (2024-07-06)](/defense/AbhijeetKrishnan-thesis-presentation-v0.pdf)
