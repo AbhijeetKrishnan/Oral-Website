@@ -59,3 +59,26 @@ in reinforcement learning tasks, increasing trust and verifiability of these sys
 
 - [version 1 (2024-07-11)](/defense/AbhijeetKrishnan-thesis-presentation-v1.pdf)
 - [version 0 (2024-07-06)](/defense/AbhijeetKrishnan-thesis-presentation-v0.pdf)
+
+## Changes to Proposal
+
+### Original Proposed Work
+
+- Strategy synthesis with ASP-based strategy model for MicroRTS
+- User study to determine factors affecting interpretability of said model
+
+### Committee Feedback
+
+- Recommendation to focus on either strategy synthesis or interpretability, and not both
+
+### Changes Made
+
+- Replacement of ASP-based strategy model with programmatic strategy model + RL-based learning method
+- No interpretability study
+
+### Why?
+
+- Choice made to pursue strategy synthesis work in favor of studying interpretability
+- More challenging than expected to model MicroRTS using ASP; no baseline for comparison
+- Easier to reuse programmatic synthesis work for [MicroRTS](https://rubensolv.github.io/synpros-microrts/) and other domains
+- Easier to show improvement given existence of [baselines](https://clvrai.github.io/leaps/)
