@@ -6,6 +6,7 @@
 - **Time**: 3:00 - 5:00pm EST
 - **Venue**: Fully remote
 - **Zoom**: [Zoom](https://ncsu.zoom.us/j/98794358822?pwd=dTlCE9caLBulGi7XiFU2F6pdmE6hHi.1)
+- **Feedback Form** (committee only): [Google Doc](https://docs.google.com/document/d/1D7wO_e33wQ5MrE_5HXFcf7AOWaTpcg1c7XxgXsvLE2k/edit?usp=sharing)
 
 ## Research Theme
 
@@ -57,6 +58,7 @@ in reinforcement learning tasks, increasing trust and verifiability of these sys
 
 ## Slides
 
+- [version 2 (2024-07-14)](/defense/AbhijeetKrishnan-thesis-presentation-v2.pdf)
 - [version 1 (2024-07-11)](/defense/AbhijeetKrishnan-thesis-presentation-v1.pdf)
 - [version 0 (2024-07-06)](/defense/AbhijeetKrishnan-thesis-presentation-v0.pdf)
 
